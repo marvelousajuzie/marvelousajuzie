@@ -3,7 +3,7 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXlybjRiNTk5b3M3ejdqMjEyMHluZzh4MW5zYjQ3ZDQzeG02d3ZkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fYBEN9TRdEnW0HDMJS/giphy.gif" width="100"/>
 </div>
 
-<h1 align="center">Hello, I'm Marvel 💗, welcome to my new Github account</h1>
+<h1 align="center">Hello, I'm Marvel 💗, welcome to my Github account</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marvelous-ajuzie-14652b2a4/">
